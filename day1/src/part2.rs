@@ -39,7 +39,7 @@ fn solve(filename: &str) -> i32 {
             result += 1;
         }
     }
-    return result;
+    result
 }
 
 fn main() {
